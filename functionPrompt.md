@@ -11,7 +11,7 @@ Implement the MATLAB function `movingAverage.m` from the following requirements:
 - R7: A row-vector input shall produce a row-vector output
 - R8: A column-vector input shall produce a column-vector output
 
-The existing verification tests are fixed and must not be modified. The unit test suite is in tests/TestMovingAverage.m
+The existing verification tests are fixed and must not be modified. The unit test suite is in Test/TestMovingAverage.m
 
 Instructions:
 - Create `movingAverage.m` and avoid using any built-in functions.
